@@ -9,6 +9,7 @@ Created by JushBJJ ([@yupiop12](https://x.com/yupiop12) on X, formerly Twitter)
 - Displays the pronounciation of the word
 - States the "part of word" of the word
 - Tells you the history of the word
+- Lists similar words
 - Gives you examples and contexts of the word, depending on what kind of word it is
 
 ## The dictionary also supports
