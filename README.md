@@ -3,6 +3,8 @@ This GPT is literally just a dictionary
 
 Created by JushBJJ ([@yupiop12](https://x.com/yupiop12) on X, formerly Twitter)
 
+Link to GPT: https://chat.openai.com/g/g-mm7nZo5uI-the-dictionary
+
 ## Features
 - A simple interface
 - Shows the defintion of the word
